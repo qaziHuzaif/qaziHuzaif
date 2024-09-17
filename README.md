@@ -14,11 +14,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=qaziHuzaif &theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=qaziHuzaif &limit=5&theme=blue-green&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=qaziHuzaif &icon=6&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
