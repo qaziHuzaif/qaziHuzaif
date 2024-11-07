@@ -1,12 +1,13 @@
 <br clear="both">
 
-<h6 align="left">👋 Hi there! I’m an Android and Web Developer on a journey to craft impactful digital experiences that users love. With a strong foundation in Kotlin, Jetpack Compose, and modern web technologies, I’m all about building seamless, intuitive apps and web interfaces.
-<br>
+<h5 align="left">
+👋 Hi there! I’m an Android and Web Developer on a journey to craft impactful digital experiences that users love. With a strong foundation in Kotlin, Jetpack Compose, and modern web technologies, I’m all about building seamless, intuitive apps and web interfaces.
+<br><br>
 Android development has been a rewarding adventure filled with continuous learning—from designing smooth, responsive UI with Compose to implementing robust architectures and optimizing performance. On the web side, I enjoy using HTML, CSS, and JavaScript to bring responsive, engaging web applications to life.
-<br>
+<br><br>
 Collaboration is at the heart of my approach. Whether brainstorming new features, solving complex challenges, or refining the user experience, I thrive in dynamic, team-oriented environments that foster creativity.
-<br>
-Excited to connect with fellow developers and tech enthusiasts who are equally driven to create and innovate. Let’s make great things happen together!.</h6>
+<br><br>
+Excited to connect with fellow developers and tech enthusiasts who are equally driven to create and innovate. Let’s make great things happen together!.</h5>
 
 ###
 
